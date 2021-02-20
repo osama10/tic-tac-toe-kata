@@ -1,14 +1,13 @@
 //
-//  Tic_Tac_ToeTests.swift
+//  TicTacToe.swift
 //  Tic-Tac-ToeTests
 //
 //  Created by Osama Bashir on 2/20/21.
 //
 
 import XCTest
-@testable import Tic_Tac_Toe
 
-class Tic_Tac_ToeTests: XCTestCase {
+class TicTacToe: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
