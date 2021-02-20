@@ -1,5 +1,5 @@
 
-[tic-tac-toe](tictac.png8.png)
+![tic-tac-toe](tictac.png8.png)
 # Tic Tac Toe rules
 - There are two players in the game , **X** and **O**
 - players take turns taking fields until the game is over.
